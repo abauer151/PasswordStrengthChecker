@@ -6,7 +6,7 @@ public static class PasswordChecker
 {
     public static bool CheckStrength(string password)
     {
-        return GetStrengthScore(password) > 250;
+        return GetStrengthScore(password) >= 250;
     }
 
     public static int GetStrengthScore(string password)
