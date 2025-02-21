@@ -6,4 +6,4 @@
 
 **Limitations:** This tool is designed only to check that passwords follow general password making principles such as containing a mix of letters, digits, and special characters. It does not ensure that the password is entirely secure against motivated malicious parties.
 
-**Responsible Use:** Do not use this tool to ensure that a password is 100% secure. Secure passwords do not contain any identifying information and are not shared across websites, both of which this tool is not capable of checking, among other things. Accept the limitations of this tool and use it responsibly.
+**Responsible Use:** Just because this tool says your password is strong, it does not necessarily mean it is secure. Some guidelines for making a secure password: do not use any personally identifying information, passwords should not be easily guessable, do not store passwords in someplace accesible to others, and change passwords often. The afformentioned guidelines are all things that this password checker does not have the capacity to check for. Accept the limitations of this tool (stated above) and use it responsibly.
