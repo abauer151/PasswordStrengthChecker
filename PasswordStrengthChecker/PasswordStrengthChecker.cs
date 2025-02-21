@@ -1,8 +1,4 @@
-﻿string pw = "password123!";
-Console.WriteLine(PasswordChecker.GetStrengthScore(pw));
-Console.WriteLine(PasswordChecker.CheckStrength(pw));
-
-public static class PasswordChecker
+﻿public static class PasswordChecker
 {
     public static bool CheckStrength(string password)
     {
